@@ -1,8 +1,8 @@
-$sourceDir = "c:\some\path\to\CSV\source\" #this is source directory literal path
-$outputPath = "c:\some\path\to\script\output\folder\" #output path for the zip file creation
-$account_id = "<account_id>"
-$token = "<some_token>" # access_token
-$domain = "<school>.instructure.com"
+$sourceDir = "c\canvas\" #this is source directory literal path
+$outputPath = "c:\canvasoutput\" #output path for the zip file creation
+$account_id = "1"
+$token = "2435~B56Bqm2vmzy4IPX0OuCbl8IKjwNMWSlgL27bf5y54S3TxDgIydJJlb5ofvOrDlDc" # access_token
+$domain = "neit.test.instructure.com"
 $outputZip = "courses1.csv.zip" # name of the zip file to create
 
 #################################################
